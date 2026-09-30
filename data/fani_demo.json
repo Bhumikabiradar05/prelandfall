@@ -1,0 +1,18 @@
+{
+  "district": "Puri, Odisha", "event": "Cyclone Fani replay (03 May 2019)",
+  "center": [19.8135, 85.8312],
+  "wards": [
+    {"name": "Puri Ward 2", "lat": 19.809, "lon": 85.845, "threshold": 1.2},
+    {"name": "Puri Ward 5", "lat": 19.796, "lon": 85.829, "threshold": 2.0},
+    {"name": "Puri Ward 12", "lat": 19.821, "lon": 85.858, "threshold": 3.0}
+  ],
+  "assets": [
+    {"name": "Puri 33/11 kV Substation", "type": "Power substation", "lat": 19.803, "lon": 85.831, "base_risk": 96},
+    {"name": "Marine Drive feeder", "type": "Power line", "lat": 19.811, "lon": 85.849, "base_risk": 89},
+    {"name": "Puri-Konark Road segment", "type": "Arterial road", "lat": 19.785, "lon": 85.826, "base_risk": 85},
+    {"name": "District Headquarters Hospital", "type": "Hospital", "lat": 19.815, "lon": 85.838, "base_risk": 72},
+    {"name": "Town Hall Cyclone Shelter", "type": "Shelter", "lat": 19.801, "lon": 85.842, "base_risk": 80},
+    {"name": "SCS College Shelter", "type": "Shelter", "lat": 19.816, "lon": 85.819, "base_risk": 54},
+    {"name": "Balagandi School", "type": "School", "lat": 19.806, "lon": 85.817, "base_risk": 48}
+  ]
+}
